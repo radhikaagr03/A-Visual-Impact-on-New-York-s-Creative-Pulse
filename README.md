@@ -1,7 +1,5 @@
 # Tableau Dashboard: A Visual Impact on New York's Creative Pulse
 
-![](https://github.com/radhikaagr03/Data-Driven-Sales-and-Promotional-Analysis/blob/main/Final_Project-_-Tableau-Public-Google-Chrome-2024-02-16-12-36-07-.gif)
-
 ## Tableau Public Link
 
 You can view the visualizations created for this project on [Tableau Public](https://public.tableau.com/app/profile/radhika.agarwal03/viz/AVisualImpactonNewYorksCreativePulse_17107942973840/CRNY).
