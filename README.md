@@ -1,5 +1,11 @@
 # Tableau Dashboard: A Visual Impact on New York's Creative Pulse
 
+![](https://github.com/radhikaagr03/Data-Driven-Sales-and-Promotional-Analysis/blob/main/Final_Project-_-Tableau-Public-Google-Chrome-2024-02-16-12-36-07-.gif)
+
+## Tableau Public Link
+
+You can view the visualizations created for this project on [https://public.tableau.com/app/profile/radhika.agarwal03/viz/AVisualImpactonNewYorksCreativePulse_17107942973840/CRNY).
+
 ## Overview:
 This Tableau dashboard provides an interactive visualization of the revitalization of New York City's artistic community. It highlights demographic diversity and key performance indicators (KPIs) to showcase the impact of various artistic initiatives.
 
