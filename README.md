@@ -1,0 +1,1 @@
+# A-Visual-Impact-on-New-York-s-Creative-Pulse
